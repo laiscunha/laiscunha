@@ -26,7 +26,7 @@ Aqui estão as ferramentas e linguagens que estou aprendendo no momento:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=laiscunha&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-AQUI]&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiscunha&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
 ---
