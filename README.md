@@ -6,7 +6,7 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e focando 
 
 ### 🛠️ Minhas Tecnologias
 
-Aqui estão as ferramentas e linguagens que utilizo para dar vida aos meus projetos:
+Aqui estão as ferramentas e linguagens que estou aprendendo no momento:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,7 +25,7 @@ Aqui estão as ferramentas e linguagens que utilizo para dar vida aos meus proje
 ### 📈 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-AQUI]&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=laiscunha&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-AQUI]&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
@@ -34,6 +34,6 @@ Aqui estão as ferramentas e linguagens que utilizo para dar vida aos meus proje
 ### 📫 Como me encontrar
 
 <p align="left">
-<a href="https://linkedin.com/in/[SEU-LINKEDIN]" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:[SEU-EMAIL]" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://linkedin.com/in/laiscunhaa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:laiscodex@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
