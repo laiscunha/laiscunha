@@ -1,4 +1,4 @@
-Olá, eu sou [Seu Nome]! 👋
+Olá, eu sou, X! 👋
 
 ### Desenvolvedor em Construção | Apaixonada por Tecnologia
 
