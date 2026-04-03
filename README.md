@@ -1,8 +1,4 @@
-Olá! 👋
-
-### Quem sou eu:
-
-Soon
+Olá, eu sou, L!👋
 
 ### 🌐 Minhas Tecnologias
 
@@ -17,12 +13,3 @@ Aqui estão as ferramentas e linguagens que estou aprendendo no momento:
 
 Soon
 
-### 📈 Minhas Estatísticas
-
-Soon
-
----
-
-### Como me encontrar
-
-Soon
