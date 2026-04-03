@@ -1,10 +1,10 @@
-Olá, eu sou, X! 👋
+Olá! 👋
 
-### Desenvolvedor em Construção | Apaixonada por Tecnologia
+### Quem sou eu:
 
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e focando em construir uma base sólida em programação. Adoro transformar café em código e resolver problemas complexos através da tecnologia.
+Soon
 
-### 🛠️ Minhas Tecnologias
+### 🌐 Minhas Tecnologias
 
 Aqui estão as ferramentas e linguagens que estou aprendendo no momento:
 
@@ -25,7 +25,4 @@ Soon
 
 ### Como me encontrar
 
-<p align="left">
-<a href="https://linkedin.com/in/laiscunhaa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:laiscodex@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
+Soon
