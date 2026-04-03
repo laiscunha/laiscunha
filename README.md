@@ -15,19 +15,11 @@ Aqui estão as ferramentas e linguagens que estou aprendendo no momento:
 
 📂 No que estou trabalhando?
 
-- 🔭 Atualmente explorando os fundamentos da **Lógica de Programação com C**.
-- 🎮 Desenvolvendo um projeto de **Super Trunfo** para praticar estruturas de dados e condicionais.
-- 🌐 Criando interfaces modernas e responsivas com **HTML5 & CSS3**.
-- 🧠 Estudando **JavaScript** para adicionar interatividade e dinamismo aos meus projetos web.
-
----
+Soon
 
 ### 📈 Minhas Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laiscunha&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiscunha&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
+Soon
 
 ---
 
