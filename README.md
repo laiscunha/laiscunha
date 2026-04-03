@@ -1,5 +1,9 @@
 Olá, eu sou, L!👋
 
+### Desenvolvedora em Construção
+
+Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e focando em construir uma base sólida em programação. 
+
 ### 🌐 Minhas Tecnologias
 
 Aqui estão as ferramentas e linguagens que estou aprendendo no momento:
