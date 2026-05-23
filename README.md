@@ -1,8 +1,8 @@
-Olá, eu sou, Laís!👋
+Olá! Meu nom é Laís!👋
 
 ### Sobre Mim
 
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e focando em construir uma base sólida em programação. 
+Sou apaixonada por tecnologia, amante de games, música e curiosa por natureza. Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e focando em construir uma base sólida em programação.
 
 ### 💻 Tech Stack
 
