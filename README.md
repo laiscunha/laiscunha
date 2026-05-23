@@ -1,10 +1,10 @@
 Olá, eu sou, Laís!👋
 
-### Dev em Construção
+### Sobre Mim
 
 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e focando em construir uma base sólida em programação. 
 
-### 🌐 Minhas Tecnologias
+### 🌐 Tech Stack
 
 Aqui estão as ferramentas e linguagens que estou aprendendo no momento:
 
