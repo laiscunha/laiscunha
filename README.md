@@ -1,4 +1,4 @@
-Olá! Meu nom é Laís!👋
+Olá! Meu nome é Laís!👋
 
 ### Sobre Mim
 
