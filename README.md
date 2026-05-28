@@ -1,4 +1,4 @@
-Olá! Meu nome é Laís!👋
+Olá! Meu nome é Laís!
 
 ### Sobre Mim
 
@@ -25,6 +25,8 @@ Soon
 <a href="mailto:laiscunhamd@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://www.instagram.com/xxxx" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" alt="Instragram" /></a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
