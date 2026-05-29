@@ -19,6 +19,8 @@ Aqui estão as ferramentas e linguagens que estou aprendendo no momento:
 Soon
 
 
+### 📊 Estatísticas
+
 <p align="left">
   <img height="180" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=laiscunha&layout=compact&theme=vision-friendly-dark" />
 </p>
