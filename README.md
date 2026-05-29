@@ -21,9 +21,8 @@ Soon
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img height="180" src="https://github-readme-stats-resorcery.vercel.app/api/top-langs/?username=laiscunha&layout=compact&theme=vision-friendly-dark" />
-</p>
+[![Linguagens Mais Usadas](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=laiscunha&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 🌐 Como me encontrar:
 
