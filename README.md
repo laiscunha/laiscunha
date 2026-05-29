@@ -22,7 +22,7 @@ Soon
 ### 📊 Estatísticas
 
 <p align="left">
-  <img height="180" src="https://metrics.lecoq.io/laiscunha?template=classic&base=languages&languages.ignored=html,%20css" />
+  <img height="180" src="https://github-readme-stats-resorcery.vercel.app/api/top-langs/?username=laiscunha&layout=compact&theme=vision-friendly-dark" />
 </p>
 
 🌐 Como me encontrar:
