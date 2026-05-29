@@ -22,9 +22,9 @@ Soon
 ### 📊 Estatísticas
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=laiscunha&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=laiscunha&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
   
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiscunha&layout=compact&theme=vision-friendly-dark" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laiscunha&layout=compact&theme=vision-friendly-dark" />
 </p>
 
 🌐 Como me encontrar:
