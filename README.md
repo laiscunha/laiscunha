@@ -19,9 +19,12 @@ Aqui estão as ferramentas e linguagens que estou aprendendo no momento:
 Soon
 
 
+
 ### 📊 Estatísticas
 
-[![Linguagens Mais Usadas](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=laiscunha&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img height="180" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=laiscunha&layout=compact&theme=vision-friendly-dark" />
+</p>
 
 
 🌐 Como me encontrar:
