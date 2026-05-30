@@ -14,10 +14,6 @@ Aqui estão as ferramentas e linguagens que estou aprendendo no momento:
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-📂 No que estou trabalhando?
-
-Soon
-
 
 🌐 Como me encontrar:
 
