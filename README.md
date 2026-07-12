@@ -6,7 +6,7 @@ Sou apaixonada por tecnologia, amante de games, música e curiosa por natureza. 
 
 ### 💻 Tech Stack
 
-Aqui estão as ferramentas e linguagens que estou aprendendo no momento:
+Aqui estão as tecnologias que estou aprendendo no momento:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
