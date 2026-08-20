@@ -28,10 +28,28 @@ Aqui estão as tecnologias que estou aprendendo no momento:
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img height="180" src="https://vercel.app" />
-  <img height="180" src="https://vercel.app" />
-</p>
+name: GitHub README Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Atualiza todo dia à meia-noite
+  workflow_dispatch: # Permite atualizar manualmente se você quiser
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Stats Cards
+        uses: anuraghazra/github-readme-stats-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          username: laiscunha
+          theme: vision-friendly-dark
+          include_all_commits: true
+          count_private: true
+          # Gera também o cartão de linguagens
+          card_width: 495
+
 
 
 
