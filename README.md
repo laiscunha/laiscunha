@@ -29,10 +29,9 @@ Aqui estão as tecnologias que estou aprendendo no momento:
 ### 📊 Estatísticas
 
 <p align="left">
-  <img height="180" src="https://githubusercontent.com" />
-  <img height="180" src="https://githubusercontent.com" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radial" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radial" />
 </p>
-
 
 
 
