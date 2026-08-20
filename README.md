@@ -28,9 +28,11 @@ Aqui estão as tecnologias que estou aprendendo no momento:
 
 ### 📊 Estatísticas
 
+### 📊 Estatísticas
+
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=laiscunha&show_icons=true&theme=radial" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiscunha&layout=compact&theme=radial" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=laiscunha&show_icons=true&theme=dracula" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laiscunha&layout=compact&theme=dracula" />
 </p>
 
 
