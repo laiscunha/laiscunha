@@ -29,8 +29,8 @@ Aqui estão as tecnologias que estou aprendendo no momento:
 ### 📊 Estatísticas
 
 <p align="left">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=laiscunha&theme=dracula" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiscunha&layout=compact&theme=dracula" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laiscunha&theme=dracula" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=laiscunha&theme=dracula" />
 </p>
 
 
