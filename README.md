@@ -34,8 +34,9 @@ Aqui estão as tecnologias que estou aprendendo no momento:
   <img width="400" height="220" src="https://github-stats-extended.vercel.app/api/top-langs/?username=laiscunha&layout=compact&langs_count=8&bg_color=000000&border_color=007bff&title_color=ff0000&text_color=ffffff" />
 </p>
 
+### Bootcamp e Cursos
 
-<div align="center">
-  <img src="https://assets.dio.me/lNJS6S6YtDVM-3JxU4ZuHFvGmEHUQivlg3qAiAPAsRE/f:webp/h:120/q:80/L3RyYWNrcy85ZGJjYWY4OS0wNzRjLTQwMjQtOGUzNS1lNmQ0ZGU4NjgwNDcucG5n" alt="Selo Santander Bootcamp - AI React Front-end" width="80">
+<div align="left">
+  <img src="https://assets.dio.me/lNJS6S6YtDVM-3JxU4ZuHFvGmEHUQivlg3qAiAPAsRE/f:webp/h:120/q:80/L3RyYWNrcy85ZGJjYWY4OS0wNzRjLTQwMjQtOGUzNS1lNmQ0ZGU4NjgwNDcucG5n" alt="Selo Santander Bootcamp - AI React Front-end" width="60">
 </div>
 
