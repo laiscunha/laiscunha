@@ -29,7 +29,7 @@ Aqui estão as tecnologias que estou aprendendo no momento:
 ### 📊 Estatísticas
 
 <p align="left">
-  <img height="180" src="https://streak-stats.demolab.com?user=laiscunha&background=000000&border=ff0000&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&sideTitle=ff0000&currStreakLabel=ff0000&dates=aaaaaa" />
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=laiscunha&layout=compact&bg_color=000000&border_color=ff0000&title_color=ff0000&text_color=ffffff" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=laiscunha&show_icons=true&bg_color=000000&border_color=ff0000&title_color=ff0000&text_color=ffffff&icon_color=ff0000" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=laiscunha&layout=compact&langs_count=5&bg_color=000000&border_color=ff0000&title_color=ff0000&text_color=ffffff" />
 </p>
 
