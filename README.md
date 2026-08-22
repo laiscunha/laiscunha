@@ -33,4 +33,3 @@ Aqui estão as tecnologias que estou aprendendo no momento:
 </p>
 
 
-
