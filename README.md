@@ -33,3 +33,8 @@ Aqui estão as tecnologias que estou aprendendo no momento:
   <img width="400" height="220" src="https://github-stats-extended.vercel.app/api?username=laiscunha&show_icons=true&bg_color=000000&border_color=007bff&title_color=ff0000&text_color=ffffff&icon_color=007bff" />
   <img width="400" height="220" src="https://github-stats-extended.vercel.app/api/top-langs/?username=laiscunha&layout=compact&langs_count=8&bg_color=000000&border_color=007bff&title_color=ff0000&text_color=ffffff" />
 </p>
+
+
+<p align="left">
+  <img src="./selo-santander.png" width="80" alt="Conclusão Santander React 2026" />
+</p>
