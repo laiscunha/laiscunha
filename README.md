@@ -25,7 +25,7 @@ Sou apaixonada por tecnologia, amante de games, música e curiosa por natureza. 
 ### ◈ Bootcamps e Conquistas
 
 <p align="left">
-  <img src="https://assets.dio.me/lNJS6S6YtDVM-3JxU4ZuHFvGmEHUQivlg3qAiAPAsRE/f:webp/h:120/q:80/L3RyYWNrcy85ZGJjYWY4OS0wNzRjLTQwMjQtOGUzNS1lNmQ0ZGU4NjgwNDcucG5n" alt="Selo Santander Bootcamp - AI React Front-end" width="70">
+  <img src="https://assets.dio.me/lNJS6S6YtDVM-3JxU4ZuHFvGmEHUQivlg3qAiAPAsRE/f:webp/h:120/q:80/L3RyYWNrcy85ZGJjYWY4OS0wNzRjLTQwMjQtOGUzNS1lNmQ0ZGU4NjgwNDcucG5n" alt="Selo Santander Bootcamp - AI React Front-end" width="60">
 </p>
 
 ---
