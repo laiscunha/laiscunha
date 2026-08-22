@@ -6,7 +6,7 @@ Sou apaixonada por tecnologia, amante de games, música e curiosa por natureza. 
 
 ### 💻 Tech Stack
 
-Aqui estão as tecnologias que estou aprendendo no momento:
+[i]Aqui estão as tecnologias que estou aprendendo no momento:[/i]
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,13 +18,19 @@ Aqui estão as tecnologias que estou aprendendo no momento:
 
 
 
-🌐 Como me encontrar:
+### 🌐 Como me encontrar:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/laisccunha" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:laiscunhamd@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://www.instagram.com/x" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" alt="Instragram" /></a>
 </p>
+
+### Bootcamp e Cursos
+
+<div align="left">
+  <img src="https://assets.dio.me/lNJS6S6YtDVM-3JxU4ZuHFvGmEHUQivlg3qAiAPAsRE/f:webp/h:120/q:80/L3RyYWNrcy85ZGJjYWY4OS0wNzRjLTQwMjQtOGUzNS1lNmQ0ZGU4NjgwNDcucG5n" alt="Selo Santander Bootcamp - AI React Front-end" width="60">
+</div>
 
 
 ### 📊 Estatísticas
@@ -33,10 +39,4 @@ Aqui estão as tecnologias que estou aprendendo no momento:
   <img width="400" height="220" src="https://github-stats-extended.vercel.app/api?username=laiscunha&show_icons=true&bg_color=000000&border_color=007bff&title_color=ff0000&text_color=ffffff&icon_color=007bff" />
   <img width="400" height="220" src="https://github-stats-extended.vercel.app/api/top-langs/?username=laiscunha&layout=compact&langs_count=8&bg_color=000000&border_color=007bff&title_color=ff0000&text_color=ffffff" />
 </p>
-
-### Bootcamp e Cursos
-
-<div align="left">
-  <img src="https://assets.dio.me/lNJS6S6YtDVM-3JxU4ZuHFvGmEHUQivlg3qAiAPAsRE/f:webp/h:120/q:80/L3RyYWNrcy85ZGJjYWY4OS0wNzRjLTQwMjQtOGUzNS1lNmQ0ZGU4NjgwNDcucG5n" alt="Selo Santander Bootcamp - AI React Front-end" width="60">
-</div>
 
