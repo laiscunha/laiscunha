@@ -46,7 +46,7 @@ Sou apaixonada por tecnologia, amante de games, música e curiosa por natureza. 
 
 ---
 
-### 📈 Estatísticas
+### 📊 Estatísticas
 
 <p align="left">
   <img width="400" height="220" src="https://github-stats-extended.vercel.app/api?username=laiscunha&show_icons=true&bg_color=000000&border_color=007bff&title_color=ff0000&text_color=ffffff&icon_color=007bff" alt="Estatísticas do GitHub" />
