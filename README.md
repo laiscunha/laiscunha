@@ -36,5 +36,5 @@ Aqui estão as tecnologias que estou aprendendo no momento:
 
 
 <p align="left">
-  <img src="./selo-santander.png" width="80" alt="Conclusão Santander React 2026" />
+  <img src="./selo-react.png" width="120" alt="Selo Conclusão AI React Front-End - Santander 2026" />
 </p>
