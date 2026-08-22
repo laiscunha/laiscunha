@@ -1,12 +1,12 @@
-# Olá! Meu nome é Laís
+# Olá! Meu nome é Laís ♡
 
-### Sobre Mim
+### ✦ Sobre Mim
 
 Sou apaixonada por tecnologia, amante de games, música e curiosa por natureza. Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e focando em construir uma base sólida em programação.
 
 ---
 
-### Tech Stack
+### ⚙ Tech Stack
 
 > Tecnologias e ferramentas em aprendizado e desenvolvimento:
 
@@ -22,15 +22,15 @@ Sou apaixonada por tecnologia, amante de games, música e curiosa por natureza. 
 
 ---
 
-### Bootcamps e Conquistas
+### ◈ Bootcamps e Conquistas
 
 <p align="left">
-  <img src="https://assets.dio.me/lNJS6S6YtDVM-3JxU4ZuHFvGmEHUQivlg3qAiAPAsRE/f:webp/h:120/q:80/L3RyYWNrcy85ZGJjYWY4OS0wNzRjLTQwMjQtOGUzNS1lNmQ0ZGU4NjgwNDcucG5n" alt="Selo Santander Bootcamp - AI React Front-end" width="80">
+  <img src="https://assets.dio.me/lNJS6S6YtDVM-3JxU4ZuHFvGmEHUQivlg3qAiAPAsRE/f:webp/h:120/q:80/L3RyYWNrcy85ZGJjYWY4OS0wNzRjLTQwMjQtOGUzNS1lNmQ0ZGU4NjgwNDcucG5n" alt="Selo Santander Bootcamp - AI React Front-end" width="100">
 </p>
 
 ---
 
-### Conecte-se Comigo
+### ✉ Conecte-se Comigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/laisccunha" target="_blank">
@@ -46,10 +46,9 @@ Sou apaixonada por tecnologia, amante de games, música e curiosa por natureza. 
 
 ---
 
-### Estatísticas
+### 📈 Estatísticas
 
 <p align="left">
   <img width="400" height="220" src="https://github-stats-extended.vercel.app/api?username=laiscunha&show_icons=true&bg_color=000000&border_color=007bff&title_color=ff0000&text_color=ffffff&icon_color=007bff" alt="Estatísticas do GitHub" />
   <img width="400" height="220" src="https://github-stats-extended.vercel.app/api/top-langs/?username=laiscunha&layout=compact&langs_count=8&bg_color=000000&border_color=007bff&title_color=ff0000&text_color=ffffff" alt="Linguagens Mais Usadas" />
 </p>
-
