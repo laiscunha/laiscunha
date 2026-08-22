@@ -28,6 +28,10 @@ Sou apaixonada por tecnologia, amante de games, música e curiosa por natureza. 
   <img src="https://assets.dio.me/lNJS6S6YtDVM-3JxU4ZuHFvGmEHUQivlg3qAiAPAsRE/f:webp/h:120/q:80/L3RyYWNrcy85ZGJjYWY4OS0wNzRjLTQwMjQtOGUzNS1lNmQ0ZGU4NjgwNDcucG5n" alt="Selo Santander Bootcamp - AI React Front-end" width="80">
 </p>
 
+<p align="left">
+  <img src="https://assets.dio.me/_sbkzRLBTU5zD7nDm0BuBr1gulSK7E8Hw46tpr1CGjE/f:webp/h:120/q:80/L3RyYWNrcy8xZTk5YzNkYS0wMTE4LTRkMTgtOTNiMC04YTQ3MmM4YTg3YTcucG5n" alt="Selo Bradesco Bootcamp - Gen Ai, Dados & Cyber" width="80">
+</p>
+
 ---
 
 ### ✉ Conecte-se Comigo
