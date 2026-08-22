@@ -29,7 +29,7 @@ Aqui estão as tecnologias que estou aprendendo no momento:
 ### 📊 Estatísticas
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiscunha&layout=compact&theme=dracula" />
+  <img height="180" src="https://streak-stats.demolab.com?user=laiscunha&theme=dracula" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=laiscunha&layout=compact&theme=dracula" />
 </p>
-
 
